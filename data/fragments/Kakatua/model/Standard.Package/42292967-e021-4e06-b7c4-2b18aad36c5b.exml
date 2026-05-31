@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="kakatua" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Kakatua" version="4">
   <OBJECT>
-    <ID name="kakatua" mc="Standard.Package" uid="42292967-e021-4e06-b7c4-2b18aad36c5b"/>
+    <ID name="Kakatua" mc="Standard.Package" uid="42292967-e021-4e06-b7c4-2b18aad36c5b"/>
     <PID name="Kakatua" mc="Standard.Project" uid="f0b145b7-1a21-4b20-b7ae-2e47a62df973"/>
     <ATTRIBUTES>
       <ATT name="IsInstantiable">false</ATT>
@@ -9,16 +9,21 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[kakatua]]></ATT>
+      <ATT name="Name"><![CDATA[Kakatua]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
-        <COMPID name="Servidor" mc="Standard.Class" uid="180381f4-423b-4d9c-889f-d9cea67289fc"/>
-        <COMPID name="Haha" mc="Standard.Class" uid="f681ffbd-0cc0-45d4-ba55-7c77fcc757db"/>
+        <COMPID name="Usuário" mc="Standard.Actor" uid="dc08ecf9-de9e-49a1-a15c-ef3afc777ef3"/>
+        <COMPID name="Administrador" mc="Standard.Actor" uid="e1221d3f-d803-454d-87e0-14a69b225518"/>
+        <COMPID name="Solicitar liberação da tranca" mc="Standard.UseCase" uid="dfbcca04-1662-4707-96c7-bc9977c4399e"/>
+        <COMPID name="Autenticar-se no sistema" mc="Standard.UseCase" uid="80fb4c96-1097-4a7f-a079-723d23828825"/>
+        <COMPID name="Visualizar logs de acesso" mc="Standard.UseCase" uid="bfea6ac0-8eaa-4f01-a783-4c045c5551b5"/>
+        <COMPID name="Visualizar status da estação" mc="Standard.UseCase" uid="e31b7571-1b4f-4757-8ecb-67ace2bb8bc5"/>
+        <COMPID name="Gerenciar credenciais" mc="Standard.UseCase" uid="d451fd4e-3b5d-4faa-991e-2d28be01cc1b"/>
       </COMP>
       <COMP relation="Product">
-        <COMPID name="kakatua Class diagram" mc="Standard.ClassDiagram" uid="989f873e-ec1c-476a-b2f8-53d71242e37b"/>
+        <COMPID name="Kakatua Diagrama de Caso de Uso" mc="Standard.UseCaseDiagram" uid="df176ef8-27a6-4920-ad6f-6a50771c798a"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>
