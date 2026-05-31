@@ -15,6 +15,7 @@
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
         <COMPID name="Servidor" mc="Standard.Class" uid="180381f4-423b-4d9c-889f-d9cea67289fc"/>
+        <COMPID name="Haha" mc="Standard.Class" uid="f681ffbd-0cc0-45d4-ba55-7c77fcc757db"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="kakatua Class diagram" mc="Standard.ClassDiagram" uid="989f873e-ec1c-476a-b2f8-53d71242e37b"/>
