@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Kakatua Diagrama de Implantação" version="4">
+  <OBJECT>
+    <ID name="Kakatua Diagrama de Implantação" mc="Standard.DeploymentDiagram" uid="95ea2923-91d4-43f3-ba25-f80607eaa0e5"/>
+    <PID name="Kakatua" mc="Standard.Package" uid="42292967-e021-4e06-b7c4-2b18aad36c5b"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">1</ATT>
+      <ATT name="UiData"><![CDATA[eJztVdtO20AQ/ZWV37Nxbm0jhSCwURTFJSi0lXhC4+zEXdiLtV5D/D196IfwY/USB0JIgiuhtg998mp2zsyZmTPewfFSCnKHJuNaHXkt6nvkeDiYxjc4t4Sz0uQRW6R45GmTUKkZCq5pLgVlmApdSFSWcUgMSIqMW20oCnTWbIfHSIZPtnBl84iEG22unzj43nBwYXSKxhZEgSxTCyh0bkOwUN59A5FjxUnlQnjN4aC5BryCXtpCoPeiovauitYMM+ef0bk2SFfYGvwCyObAkK2TnS3tDBc1s5yXISokwaUN43HJ8fHoDoGOQditGpurag7VbVCARVbS2GrZZ2cid87iugOKgWH01VhIv4fQ7rc7jX6LdRvdzqLTiKHdayw++R/8jwjgY+9w6wVkdqL0vYogRrFF49IarhJvOIFbsDmQKi0QhmQsUwHKwsPPhx960HyEHaxVCxyrQMtUZ9yWQ9qTq0ao4DsXzKCLEPHMdbj67EVEXN1m9d1Pk9DAfUknggLNS2F2DgnzeatW+IwKF8Gt1GbAP7NNv4f6B7TI2R5NhCManVydza5PT4LJaDb9eh6+j0xq7Ojm4J4ltCGI7n9B/D1BfJlevLcS3vo57HgeaTW4LbZjZTFx06161drzQvwCFy7CHg==]]></ATT>
+      <ATT name="PreviewData"><![CDATA[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAGElEQVR4nGP4TxlgGNU/qn9U/6j+EaofAB8cJiE1IQRUAAAAAElFTkSuQmCC]]></ATT>
+      <ATT name="JsStructure"></ATT>
+      <ATT name="Name"><![CDATA[Kakatua Diagrama de Implantação]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="dd3bdacb-abf1-4504-bddb-93cb05fa4dd5"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
