@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Kakatua" version="4">
+  <OBJECT>
+    <ID name="Kakatua" mc="Standard.Package" uid="42292967-e021-4e06-b7c4-2b18aad36c5b"/>
+    <PID name="Kakatua" mc="Standard.Project" uid="f0b145b7-1a21-4b20-b7ae-2e47a62df973"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Kakatua]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Usuário" mc="Standard.Actor" uid="dc08ecf9-de9e-49a1-a15c-ef3afc777ef3"/>
+        <COMPID name="Administrador" mc="Standard.Actor" uid="e1221d3f-d803-454d-87e0-14a69b225518"/>
+        <COMPID name="Solicitar liberação da tranca" mc="Standard.UseCase" uid="dfbcca04-1662-4707-96c7-bc9977c4399e"/>
+        <COMPID name="Autenticar-se no sistema" mc="Standard.UseCase" uid="80fb4c96-1097-4a7f-a079-723d23828825"/>
+        <COMPID name="Visualizar logs de acesso" mc="Standard.UseCase" uid="bfea6ac0-8eaa-4f01-a783-4c045c5551b5"/>
+        <COMPID name="Visualizar status da estação" mc="Standard.UseCase" uid="e31b7571-1b4f-4757-8ecb-67ace2bb8bc5"/>
+        <COMPID name="Gerenciar credenciais" mc="Standard.UseCase" uid="d451fd4e-3b5d-4faa-991e-2d28be01cc1b"/>
+        <COMPID name="Interface Web" mc="Standard.Component" uid="3d8a0255-235f-4ada-98e0-6463d78bdeed"/>
+        <COMPID name="Banco de Dados" mc="Standard.Component" uid="4312f85e-99f5-42ca-bf98-b0ac54357628"/>
+        <COMPID name="Estação física" mc="Standard.Component" uid="2941d177-eb32-46e5-9abe-d1e988bd16c6"/>
+        <COMPID name="Hardware ESP32" mc="Standard.Component" uid="0780b8e1-07fa-4ee5-b4c2-f8649625cad6"/>
+        <COMPID name="Servidor" mc="Standard.Component" uid="589ff5f2-575f-49c3-afa8-5e95295fe16c"/>
+        <COMPID name="Proxy" mc="Standard.Component" uid="0434dec0-87d2-41de-96ad-b13a96ae4c70"/>
+        <COMPID name="Celular / Computador" mc="Standard.Node" uid="dbc98337-819d-46a0-ae16-60f7b8d9e35c"/>
+        <COMPID name="Servidor" mc="Standard.Node" uid="436334f9-cb03-4fb6-a27b-67ca85098537"/>
+        <COMPID name="Estação de Bicicletas" mc="Standard.Node" uid="6b523f45-70de-41cf-a29d-e6af403acecb"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Kakatua Diagrama de Caso de Uso" mc="Standard.UseCaseDiagram" uid="df176ef8-27a6-4920-ad6f-6a50771c798a"/>
+        <COMPID name="Kakatua Diagrama de Componentes" mc="Standard.ClassDiagram" uid="204d72cc-0a3c-4334-875b-67fb31471714"/>
+        <COMPID name="Kakatua Diagrama de Implantação" mc="Standard.DeploymentDiagram" uid="95ea2923-91d4-43f3-ba25-f80607eaa0e5"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

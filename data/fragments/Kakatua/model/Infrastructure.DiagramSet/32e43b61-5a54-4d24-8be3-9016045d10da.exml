@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Kakatua" version="4">
+  <OBJECT>
+    <ID name="Kakatua" mc="Infrastructure.DiagramSet" uid="32e43b61-5a54-4d24-8be3-9016045d10da"/>
+    <PID name="Kakatua" mc="Standard.Project" uid="f0b145b7-1a21-4b20-b7ae-2e47a62df973"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Kakatua]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>
